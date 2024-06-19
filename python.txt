@@ -1,0 +1,16 @@
+1) word count. (single function pass file.read file and count each words count, 
+make the output in the same location in csv format).
+
+2) ip validation( ipv4 and ipv6 have different function and validate).
+
+3) String validation= c6*Dwu35ae2024 ( String should have last 4 digit as number, 
+3rd character should be *, 4th character should be uppercase, from last 5th character
+should be alphabet, total char should be <=14). If failure each validation should be 
+printed which dont obey. if success return success.
+
+4)find and replace. take file path as input, what word , which word is used to replace.
+
+5)Find the next highest number by swapping the digit of the input given. ex 364179 -> 364197 
+swap two numbers to get next greater number.
+core python poc use case.
+
